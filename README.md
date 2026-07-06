@@ -1,4 +1,4 @@
-# Credit Risk Analysis & Financial Health Assessment
+# Credit Risk Analysis & Financial Health Project
 
 **Standard Chartered Credit Analyst Virtual Experience (Forage)**
 
