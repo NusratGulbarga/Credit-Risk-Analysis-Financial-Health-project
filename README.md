@@ -2,6 +2,45 @@
 
 **Standard Chartered Credit Analyst Virtual Experience (Forage)**
 
+## 👤 My Role
+
+**Credit Analyst:** **Nusrat**
+
+As a Credit Analyst, I was responsible for conducting the annual credit review of a corporate client by evaluating its financial health, assessing credit risk, performing industry research, and providing a data-driven lending recommendation.
+
+---
+
+## 👥 Reporting Structure
+
+| Role | Name | Responsibility |
+|------|------|----------------|
+| Manager | **Jen** | Reviewed my financial analysis, provided guidance, and ensured the accuracy of the credit assessment. |
+| Credit Officer | **Darren** | Evaluated the final credit recommendation and made the lending decision based on the completed credit review. |
+
+---
+
+## 🏢 Client
+
+**Green Solutions Manufacturing Ltd.**
+
+**Industry:** Sustainable Manufacturing (Reusable Drinkware)
+
+### Business Overview
+
+Green Solutions Manufacturing Ltd. is a market-leading manufacturer of environmentally friendly drinkware, including reusable water bottles and coffee cups. The company is seeking additional financing to expand its sustainability initiatives and support future business growth.
+
+### Loan Purpose
+
+The requested financing will be used to:
+
+- Expand sustainability initiatives
+- Invest in environmentally friendly manufacturing
+- Support business growth
+- Improve operational efficiency
+- Strengthen long-term market competitiveness
+  
+---
+
 ## Project Overview
 
 This project was completed as part of the **Standard Chartered Credit Analyst Virtual Experience Program** on **Forage**. The objective was to perform an annual credit review of **Green Solutions Manufacturing Ltd.**, a market-leading manufacturer of sustainable drinkware seeking financing for sustainability initiatives.
