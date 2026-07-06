@@ -1,6 +1,6 @@
 # Credit Risk Analysis & Financial Health Project
 
-**Standard Chartered Credit Analyst Virtual Experience (Forage)**
+**Standard Chartered Credit Analyst**
 
 ## 👤 My Role
 
