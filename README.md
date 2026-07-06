@@ -1,209 +1,251 @@
-# Credit Risk Analysis & Financial Health Project
+# Credit Risk Analysis & Industry Assessment
+## Standard Chartered Credit Analyst Virtual Experience (Forage)
 
-**Standard Chartered Credit Analyst**
-
-## 👤 My Role
-
-**Credit Analyst:** **Nusrat**
-
-As a Credit Analyst, I was responsible for conducting the annual credit review of a corporate client by evaluating its financial health, assessing credit risk, performing industry research, and providing a data-driven lending recommendation.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Forage-blue)
+![Domain](https://img.shields.io/badge/Domain-Credit%20Risk%20Analysis-orange)
+![Tools](https://img.shields.io/badge/Tools-Excel%20|%20Financial%20Analysis%20|%20Research-brightgreen)
 
 ---
 
-## 👥 Reporting Structure
+# Overview
+
+This project was completed as part of the **Standard Chartered Credit Analyst Virtual Experience Program** hosted on **Forage**.
+
+As a **Credit Analyst**, I conducted an end-to-end annual credit review of **Green Solutions Manufacturing Ltd.**, a multinational manufacturer of sustainable drinkware seeking additional financing to expand its sustainability initiatives.
+
+The project combined **quantitative financial analysis** and **qualitative industry research** to evaluate the company's creditworthiness and provide a data-driven lending recommendation.
+
+---
+
+# My Role
+
+**Role:** Credit Analyst
+
+**Analyst:** Nusrat
+
+### Reporting Structure
 
 | Role | Name | Responsibility |
 |------|------|----------------|
-| Manager | **Jen** | Reviewed my financial analysis, provided guidance, and ensured the accuracy of the credit assessment. |
-| Credit Officer | **Darren** | Evaluated the final credit recommendation and made the lending decision based on the completed credit review. |
+| Manager | Jen | Reviewed financial analysis and preliminary credit report |
+| Credit Officer | Darren | Evaluated final presentation and lending recommendation |
 
 ---
 
-## 🏢 Client
+# Client Overview
 
-**Green Solutions Manufacturing Ltd.**
+**Client:** Green Solutions Manufacturing Ltd.
 
-**Industry:** Sustainable Manufacturing (Reusable Drinkware)
+**Industry:** Sustainable Manufacturing
 
----
+**Headquarters:** United Kingdom
 
-## 🏢 Company Background
+**Products**
 
-**Green Solutions Manufacturing Ltd.** is one of **Standard Chartered's** long-standing corporate clients. The company is a multinational manufacturer specializing in sustainable drinkware, including reusable water bottles and coffee cups, with a strong commitment to environmentally responsible manufacturing practices.
+- Reusable Water Bottles
+- Reusable Coffee Cups
+- Eco-friendly Drinkware
 
-Headquartered in the **United Kingdom**, Green Solutions Manufacturing Ltd. operates manufacturing facilities across **three countries** and serves a global customer base of more than **50 million customers**. Through continuous investment in innovation and sustainability, the company has received multiple industry awards and established itself as a leader in eco-friendly manufacturing.
+### Business Highlights
 
-To strengthen its sustainability strategy, the company has significantly increased investment in modernizing manufacturing facilities, implementing environmentally friendly production processes, and expanding its Research & Development (R&D) capabilities. Since **2022**, capital expenditure on sustainability initiatives has increased by **150%**, funded through a combination of internal resources and external borrowing.
-
-To continue accelerating its sustainability initiatives and business expansion, the company is seeking additional credit financing from Standard Chartered.
-
----
-
-## 🎯 Business Objective
-
-As the assigned **Credit Analyst**, my objective was to evaluate the creditworthiness of Green Solutions Manufacturing Ltd. by performing a comprehensive financial health assessment and risk analysis. This involved analyzing the company's financial statements, assessing repayment capacity, identifying key financial and business risks, and supporting the credit decision with data-driven recommendations.
-
----
-
-## 📋 Project Scope
-
-The annual credit review consisted of the following activities:
-
-- Analysis of Income Statement, Balance Sheet, and Cash Flow Statement
-- Financial ratio analysis
-- Liquidity, profitability, leverage, and efficiency assessment
-- Cash flow and debt repayment analysis
-- Credit risk assessment
-- Industry and macroeconomic research
-- ESG (Environmental, Social, and Governance) evaluation
-- Preparation of a professional credit recommendation report
-- Presentation of findings to senior credit stakeholders
-
----
-
-### Business Overview
-
-Green Solutions Manufacturing Ltd. is a market-leading manufacturer of environmentally friendly drinkware, including reusable water bottles and coffee cups. The company is seeking additional financing to expand its sustainability initiatives and support future business growth.
+- Manufacturing facilities across three countries
+- Over 50 million customers worldwide
+- Multiple sustainability awards
+- Significant investment in Research & Development
+- 150% increase in sustainability capital expenditure since 2022
 
 ### Loan Purpose
 
-The requested financing will be used to:
+The company requested additional credit to:
 
 - Expand sustainability initiatives
-- Invest in environmentally friendly manufacturing
-- Support business growth
-- Improve operational efficiency
-- Strengthen long-term market competitiveness
-  
----
-
-## Project Overview
-
-This project was completed as part of the **Standard Chartered Credit Analyst Virtual Experience Program** on **Forage**. The objective was to perform an annual credit review of **Green Solutions Manufacturing Ltd.**, a market-leading manufacturer of sustainable drinkware seeking financing for sustainability initiatives.
-
-The project simulates the responsibilities of a Credit Analyst by performing financial statement analysis, credit risk assessment, industry research, and providing lending recommendations.
+- Upgrade manufacturing facilities
+- Invest in environmentally friendly technologies
+- Accelerate business growth
 
 ---
 
-## Business Problem
+# Project Objectives
 
-Green Solutions Manufacturing Ltd. plans to obtain financing to support its sustainability initiatives. As a Credit Analyst, the objective is to assess the company's financial health, identify potential risks, evaluate industry conditions, and determine whether the company is creditworthy.
-
----
-
-## Objectives
-
-- Analyze financial statements
-- Perform financial ratio analysis
-- Assess liquidity, profitability, leverage, and efficiency
-- Evaluate cash flow and repayment capacity
-- Conduct industry and macroeconomic research
-- Provide a data-driven lending recommendation
+- Assess financial health
+- Evaluate creditworthiness
+- Identify financial risks
+- Analyze industry trends
+- Research macroeconomic factors
+- Recommend lending decision
 
 ---
 
-## Project Tasks
+# Task 1 — Financial Health Analysis
 
-### Task 1 – Financial Health Analysis
+## Financial Statements Reviewed
 
-- Reviewed Income Statement
-- Reviewed Balance Sheet
-- Reviewed Cash Flow Statement
-- Calculated financial ratios
-- Assessed financial performance
-- Identified key financial risks
-- Prepared a preliminary credit assessment report
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
 
-### Task 2 – Industry & Macroeconomic Analysis
+### Financial Analysis
 
-- Researched sustainable manufacturing industry
-- Evaluated market trends
-- Analyzed ESG initiatives
-- Assessed inflation and interest rate impact
-- Evaluated supply chain risks
-- Presented final lending recommendation
+Performed analysis of:
 
----
+- Revenue Growth
+- Profitability
+- Liquidity
+- Working Capital
+- Operating Cash Flow
+- Debt Servicing Capacity
+- Capital Expenditure
+- Financial Stability
 
-## Financial Ratios Analyzed
+### Financial Ratios
 
-| Category | Metrics |
-|----------|---------|
-| Liquidity | Current Ratio, Quick Ratio |
-| Profitability | Gross Margin, Operating Margin, Net Margin, ROA, ROE |
-| Leverage | Debt-to-Equity Ratio, Interest Coverage Ratio |
-| Efficiency | Inventory Turnover, Asset Turnover |
-| Cash Flow | Operating Cash Flow, Free Cash Flow, DSCR |
+#### Liquidity
 
----
+- Current Ratio
+- Quick Ratio
 
-## Tools & Technologies
+#### Profitability
 
-- Microsoft Excel
+- Net Profit Margin
+- Return on Assets (ROA)
+- Return on Equity (ROE)
+
+#### Leverage
+
+- Interest Coverage Ratio
+
+### Deliverables
+
 - Financial Statement Analysis
-- Credit Risk Analysis
-- Business Research
-- Microsoft Word
-- Microsoft PowerPoint
+- Ratio Analysis
+- Risk Assessment
+- Preliminary Credit Report
 
 ---
 
-## Skills Demonstrated
+# Task 2 — Industry Research
 
-- Financial Analysis
-- Credit Risk Assessment
+Performed qualitative research to understand the external factors affecting the client's business.
+
+## Industry Analysis
+
+- Sustainable manufacturing
+- Consumer demand
+- ESG trends
+- Market competition
+- Supply chain
+- Regulatory environment
+
+## Macroeconomic Analysis
+
+- Inflation
+- Interest rates
+- Economic outlook
+- Geopolitical risks
+- Raw material prices
+
+## Technology Assessment
+
+- R&D investment
+- Sustainable innovation
+- Manufacturing modernization
+- Technology adoption
+
+---
+
+# Credit Assessment Framework
+
+The client was evaluated using both quantitative and qualitative factors.
+
+### Quantitative Assessment
+
+- Financial Statements
 - Ratio Analysis
+- Trend Analysis
+- Cash Flow Analysis
+
+### Qualitative Assessment
+
+- Management Quality
+- Industry Position
+- Business Model
+- ESG Strategy
+- Market Risks
+- Macroeconomic Factors
+
+---
+
+# Deliverables
+
+- Financial Analysis Workbook
+- Preliminary Credit Review Report
+- Industry Research
+- Credit Risk Assessment
+- Executive Presentation
+
+---
+
+# Skills Demonstrated
+
+- Credit Analysis
+- Financial Statement Analysis
+- Financial Ratio Analysis
 - Business Analysis
 - Industry Research
-- Risk Management
-- Data Interpretation
-- Decision Making
+- Quantitative Analysis
+- Risk Identification
+- Critical Thinking
+- Presentation Skills
 - Business Communication
 
 ---
 
-## Repository Structure
+# Tools Used
 
-```text
-Credit-Risk-Analysis-Standard-Chartered/
-│
-├── data/
-│   ├── Financial_Statements.xlsx
-│   └── Ratio_Analysis.xlsx
-│
-├── reports/
-│   ├── Credit_Review_Report.pdf
-│   ├── Industry_Research.pdf
-│   └── Final_Presentation.pdf
-│
-├── images/
-│   └── dashboard.png
-│
-├── README.md
-└── LICENSE
-```
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+- Financial Reporting
+- Business Research
 
 ---
 
-## Key Outcomes
+# Key Learning Outcomes
 
-- Evaluated corporate financial health using quantitative analysis.
-- Assessed creditworthiness through financial ratio analysis.
-- Conducted qualitative business and industry risk assessment.
-- Developed lending recommendations based on financial evidence.
-- Improved analytical, reporting, and presentation skills.
+Through this project I learned how to:
 
----
-
-## Future Enhancements
-
-- Develop an interactive Power BI dashboard
-- Build financial ratio visualizations
-- Automate ratio calculations using Python
-- Perform predictive credit risk analysis using Machine Learning
+- Conduct an annual corporate credit review
+- Evaluate financial health using accounting ratios
+- Identify financial and business risks
+- Perform industry and macroeconomic analysis
+- Assess overall creditworthiness
+- Present findings to senior stakeholders
+- Support lending decisions using data-driven insights
 
 ---
 
-## Disclaimer
+# Certificate
 
-This project was completed as part of the **Standard Chartered Credit Analyst Virtual Experience Program** hosted by **Forage**. All company information and business scenarios are provided solely for educational and simulation purposes.
+**Standard Chartered – Credit Analyst Virtual Experience**
+
+**Platform:** Forage
+
+**Completion Date:** July 2026
+
+---
+
+# Resume Highlights
+
+- Completed a virtual Credit Analyst simulation by conducting an annual credit review for a multinational manufacturing client.
+- Performed quantitative financial analysis using liquidity, profitability, leverage, and cash flow metrics.
+- Conducted qualitative industry and macroeconomic research to assess business risks and creditworthiness.
+- Prepared a professional credit review report and presented recommendations to senior credit stakeholders.
+
+---
+
+# Disclaimer
+
+This project was completed as part of the **Standard Chartered Credit Analyst Virtual Experience Program** on **Forage**.
+
+The client, financial information, and business scenario are simulated for educational purposes and are intended to demonstrate practical credit analysis and risk assessment skills.
