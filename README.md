@@ -25,6 +25,42 @@ As a Credit Analyst, I was responsible for conducting the annual credit review o
 
 **Industry:** Sustainable Manufacturing (Reusable Drinkware)
 
+---
+
+## 🏢 Company Background
+
+**Green Solutions Manufacturing Ltd.** is one of **Standard Chartered's** long-standing corporate clients. The company is a multinational manufacturer specializing in sustainable drinkware, including reusable water bottles and coffee cups, with a strong commitment to environmentally responsible manufacturing practices.
+
+Headquartered in the **United Kingdom**, Green Solutions Manufacturing Ltd. operates manufacturing facilities across **three countries** and serves a global customer base of more than **50 million customers**. Through continuous investment in innovation and sustainability, the company has received multiple industry awards and established itself as a leader in eco-friendly manufacturing.
+
+To strengthen its sustainability strategy, the company has significantly increased investment in modernizing manufacturing facilities, implementing environmentally friendly production processes, and expanding its Research & Development (R&D) capabilities. Since **2022**, capital expenditure on sustainability initiatives has increased by **150%**, funded through a combination of internal resources and external borrowing.
+
+To continue accelerating its sustainability initiatives and business expansion, the company is seeking additional credit financing from Standard Chartered.
+
+---
+
+## 🎯 Business Objective
+
+As the assigned **Credit Analyst**, my objective was to evaluate the creditworthiness of Green Solutions Manufacturing Ltd. by performing a comprehensive financial health assessment and risk analysis. This involved analyzing the company's financial statements, assessing repayment capacity, identifying key financial and business risks, and supporting the credit decision with data-driven recommendations.
+
+---
+
+## 📋 Project Scope
+
+The annual credit review consisted of the following activities:
+
+- Analysis of Income Statement, Balance Sheet, and Cash Flow Statement
+- Financial ratio analysis
+- Liquidity, profitability, leverage, and efficiency assessment
+- Cash flow and debt repayment analysis
+- Credit risk assessment
+- Industry and macroeconomic research
+- ESG (Environmental, Social, and Governance) evaluation
+- Preparation of a professional credit recommendation report
+- Presentation of findings to senior credit stakeholders
+
+---
+
 ### Business Overview
 
 Green Solutions Manufacturing Ltd. is a market-leading manufacturer of environmentally friendly drinkware, including reusable water bottles and coffee cups. The company is seeking additional financing to expand its sustainability initiatives and support future business growth.
